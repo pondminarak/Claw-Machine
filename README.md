@@ -1,4 +1,5 @@
-Claw-Machine
+<h1>Claw-Machine</h1> <br>
+<a href="https://youtu.be/I7ylIgHPo7k">Clik Me To View Result</a>
 <hr>
 
 <h1>Embed</h1>
@@ -28,5 +29,8 @@ Admin MQTT (Node Red Working On Rassbery Pi)
 <hr>
 
 <h1>WEB Server</h1>
-
+<p>download code for Folder WEB for USE</p>
+<p>1. go to http://sleepless.local</p>
+<p>3. play</p>
+<p>Qr Payment</p>
 
